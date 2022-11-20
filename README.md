@@ -74,5 +74,10 @@
 #### 15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
 ### 4. VIDEO
 ### 5. CONCLUSIONES
+- Los circuitos en serie tiene una sola trayacetoria o rama encambio los circuitos en paralelo tiene varias.
+- Los circuitos en serie actuan como divisores de voltaje encambio los circuitos en paralelo como divisores de corriente.
+- La ley de voltajes de Kirchhoff nos dice que el voltaje de la fuente va a ser igual a la suma de todas las caidas de voltaje.
+- La ley de corrientes de Kitchhoff nos dice que la corriente que entra va a ser igual a la corriente que sale.
+- La localizacion de fallas tanto en circuitos en serie como en paralelo en las mediciones presentara valores irreales en el lugar donde estas se encuentre.
 ### 6. BIBLIOGRAFÍA
 - Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.118-225,). PEARSON EDUCACION.
