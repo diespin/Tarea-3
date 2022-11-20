@@ -3,28 +3,20 @@
 ### 1.1 Objetivo general
 #### Estudiar y analizar los circuitos en serie y en paralelo.
 ### 1.2 Objetivos especificos
-- Identificar un circuito resistivo en serie
-- Determinar la corriente a través de un circuito en serie
-- Determinar la resistencia total en serie
-- Aplicar la ley de Ohm a circuitos en serie
-- Determinar el efecto total de fuentes de voltaje conectadas en serie
-- Aplicar la ley del voltaje de Kirchhoff
-- Utilizar un circuito en serie como divisor de voltaje
-- Determinar potencia en un circuito en serie
-- Medir voltaje con respecto a tierra
-- Localizar fallas en circuitos en serie
-- Identificar un circuito resistivo en paralelo
-- Determinar el voltaje a través de cada rama en paralelo
-- Aplicar la ley de la corriente de Kirchhoff
-- Determinar la resistencia total en paralelo
-- Aplicar la ley de Ohm en un circuito en paralelo
-- Determinar el efecto total de una fuente de corriente en paralelo
-- Utilizar un circuito en paralelo como divisor de corriente
-- Determinar la potencia en un circuito en paralelo
-- Describir algunas aplicaciones básicas de circuitos en paralelo
-- Localizar fallas en circuitos en paralelo
+- Identificar un circuito en serie y paralelo y determinar su corriente y resistencia total.
+- Aplicar la ley de Ohm a circuitos en serie y paralelo.
+- Determinar el efecto total de fuentes de voltaje conectadas en serie y paralelo.
+- Aplicar la ley del voltaje y corriente de Kirchhoff.
+- Utilizar un circuito en serie como divisor de voltaje y el circuito en paralelo como divisor de corriente.
+- Determinar potencia en un circuito en serie y paralelo.
+- Medir voltaje con respecto a tierra.
+- Localizar fallas en circuitos en serie y en paralelo.
 
 ### 2. MARCO TEÓRICO
+[![circuitso-5-2.png](https://i.postimg.cc/8cJgzZPz/circuitso-5-2.png)](https://postimg.cc/7JkWBM2F)
+
+[![circuitos-6-2.png](https://i.postimg.cc/tgNvPJq6/circuitos-6-2.png)](https://postimg.cc/1g4K19NR)
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ### AUTOEVALUACION
 #### 1. Cinco resistores de igual valor se conectan en serie y hay una corriente de 2 mA hacia el primer resistor. La cantidad de corriente que sale del segundo resistor es
