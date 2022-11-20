@@ -75,3 +75,5 @@
 ### 4. VIDEO
 ### 5. CONCLUSIONES
 ### 6. BIBLIOGRAFÍA
+- Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.118-171,). PEARSON EDUCACION.
+- Floyd Thomas L.P.2007.Voltaje, corriente y resistencia, Principios de circuitos eléctricos (8va ed.pp.173-225,). PEARSON EDUCACION.
