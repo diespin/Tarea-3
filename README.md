@@ -23,7 +23,7 @@
 #### (a) igual a 2 mA 
 #### 3. Cuando se conecta un tercer resistor en serie con dos resistores en serie, la resistencia total
 #### (b) aumenta
-#### 5. Un circuito en serie se compone de tres resistores con valores de 100 Ω, 220 Ω, y 330 Æ. La resistencia total es
+#### 5. Un circuito en serie se compone de tres resistores con valores de 100 Ω, 220 Ω, y 330 Ω. La resistencia total es
 #### (d) de 650Ω
 #### 7. Al colocar cuatro baterías de 1.5 V en una linterna, accidentalmente se pone una batería al revés. El voltaje a través del foco será de
 #### (b) 3 V 
