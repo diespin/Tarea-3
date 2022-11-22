@@ -71,7 +71,7 @@
 [![circuitos-5-5-2.png](https://i.postimg.cc/FFqZSmxR/circuitos-5-5-2.png)](https://postimg.cc/s1Y7Fkqd)
 #### 13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
 #### 15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
-[![circuitos-5-5-2.png](https://i.postimg.cc/FFqZSmxR/circuitos-5-5-2.png)](https://postimg.cc/s1Y7Fkqd)
+[![circuitos-5-5-3.png](https://i.postimg.cc/J7yFvp6s/circuitos-5-5-3.png)](https://postimg.cc/Z0Sjyxhm)
 #### 17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 #### SECCIÓN 5–4 Aplicación de la ley de Ohm
 #### 19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
