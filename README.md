@@ -112,8 +112,7 @@
 #### 55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
 #### *57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
 [![circuitos-11-2.png](https://i.postimg.cc/CM4xzHpL/circuitos-11-2.png)](https://postimg.cc/6TyXPZQD)
-![image](https://user-images.githubusercontent.com/116698645/203220555-34526bf1-3212-428c-8d17-6bb9736d25fa.png)
-![Uploading image.png…]()
+[![5-12-ircutia-2.png](https://i.postimg.cc/HLBR5xzK/5-12-ircutia-2.png)](https://postimg.cc/Ty5tvTZq)
 
 #### *59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo problemas.
 
