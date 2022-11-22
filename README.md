@@ -69,7 +69,7 @@
 #### SECCIÓN 5–2 Corriente en un circuito en serie
 #### 7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 [![circuitos-5-3-2.png](https://i.postimg.cc/zv0YdvD9/circuitos-5-3-2.png)](https://postimg.cc/Fkd6z9LZ)
-### La corriente suminiestrada es 5mA en todos los amperimetros ya que los circuitos en serie conservan la misma corriente en todos los puntos. 
+#### La corriente suminiestrada es 5mA en todos los amperimetros ya que los circuitos en serie conservan la misma corriente en todos los puntos. 
 #### *9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
 [![9-circuitos-2.png](https://i.postimg.cc/QM7RsW0x/9-circuitos-2.png)](https://postimg.cc/3yKLFNsP)
 ### SECCIÓN 5–3 Resistencia total en serie
