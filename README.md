@@ -57,7 +57,8 @@
 #### PROBLEMA
 #### SECCIÓN 5–1 Resistores en serie
 #### 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
-[![circuitos-5-2.png](https://i.postimg.cc/HnjyxJN2/circuitos-5-2.png)](https://postimg.cc/4Hkd23s7)
+[![pregunta-1-2.png](https://i.postimg.cc/3JVHHSVk/pregunta-1-2.png)](https://postimg.cc/F7y6yZ9v)
+
 #### 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
 #### 5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 [![circuito-5-2-2.png](https://i.postimg.cc/mrXMGNXD/circuito-5-2-2.png)](https://postimg.cc/FfS1ycQ5)
