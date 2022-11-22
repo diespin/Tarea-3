@@ -74,21 +74,70 @@
 [![9-circuitos-2.png](https://i.postimg.cc/QM7RsW0x/9-circuitos-2.png)](https://postimg.cc/3yKLFNsP)
 ### SECCIÓN 5–3 Resistencia total en serie
 #### 11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
-#### (a) 560 Ω y 1000 Ω  (b) 47 Ω y 56 Ω
-#### (c) 1.5 kΩ, 2.2 kΩ, y y 10kΩ  (d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.2MΩ
+#### (c) 1.5 kΩ, 2.2 kΩ, y y 10kΩ 
 [![circuitos-5-5-2.png](https://i.postimg.cc/FFqZSmxR/circuitos-5-5-2.png)](https://postimg.cc/s1Y7Fkqd)
 #### 13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
+#### RT = (5.6kΩ)(12) = 67.2kΩ
 #### 15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
 [![circuitos-5-5-3.png](https://i.postimg.cc/J7yFvp6s/circuitos-5-5-3.png)](https://postimg.cc/Z0Sjyxhm)
+#### R5 = RT - R1 - R2 - R3 - R4
+#### R5 = 17.4kΩ - 5.6KΩ - 1.0KΩ - 2.2KΩ - 4.7KΩ
+#### R5 = 39kΩ
 #### 17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
+#### RT1 = 1.0kΩ + 5.6kΩ + 2.2kΩ = 8.8kΩ
+#### RT2 = 4.7kΩ + 10Ω + 12Ω + 1.0Ω = 4.723kΩ
 #### SECCIÓN 5–4 Aplicación de la ley de Ohm
 #### 19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
 [![5-6-circuitos-2.png](https://i.postimg.cc/7hVJm32w/5-6-circuitos-2.png)](https://postimg.cc/p5mddnC6)
+#### I1=V/R
+#### I1=5.5V/8.8kΩ
+#### I1=0,625mA
+####
+#### I2=V/R
+#### I2=16V/3.76MΩ
+#### I2=4.25µA
 #### 21. Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V.
 #### (a) ¿Cuál es la corriente en el circuito?
+#### I=V/R
+#### I=48V/3(470 Ω)
+#### I=0,034A
 #### (b) ¿Cuál es el voltaje a través de cada resistor?
+#### V=R1xI
+#### V=470Ωx0,034A
+#### V=15.98V
+####
+#### V=R2xI
+#### V=940Ωx0,034A
+#### V=31.96V
+####
+#### V=R3xI
+#### V=1410Ωx0,034A
+#### V=47.94V
 #### (c) ¿Cuál es el valor nominal de potencia de los resistores?
+#### P=V^2/R
+#### P=48^2V/470Ω
+#### P=4.90W
+####
+#### P=V^2/R
+#### P=48^2V/940Ω
+#### P=2.45W
+####
+#### P=V^2/R
+#### P=48^2V/1410Ω
+#### P=1.63W
 #### 23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+#### R=V/I
+#### R1 = 21.7V/65.8mA
+#### R1 = 0.33kΩ
+####
+#### R2 = 14.5V/65.8mA
+#### R2 = 0.22kΩ
+####
+#### R3 = 6.58V/65.8mA
+#### R3 = 0.1kΩ
+####
+#### R4 = 30.9V/65.8mA
+#### R4 = 0.47kΩ
 #### 25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 #### (a) ¿Cuál es la resistencia de R4?
 #### (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
