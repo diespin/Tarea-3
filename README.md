@@ -140,37 +140,102 @@
 #### R4 = 0.47kΩ
 #### 25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 #### (a) ¿Cuál es la resistencia de R4?
+#### Rt=Vt/It
+#### Rt=12V/7.84mA
+#### Rt=1.53kΩ
+#### Rt=R1+R2+R3+R4
+#### R4=Rt-R1-R2-R3
+#### R4=1530Ω-220Ω-470Ω-510Ω
+#### R4=330Ω
 #### (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+#### Va a ser la misma ya que las resistencias estan en serie y la intensidad se mantiene en estos circuitos.
 #### (c) ¿Se fundirá un fusible de 1/4 A en cualquier posición del interruptor?
+#### No ya que es mayor su valor al valor de la intensidad del circuito.
 #### SECCIÓN 5–5 Fuentes de voltaje en serie
 #### 27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+#### El voltaje sera igual a 14V ya que incremeta el voltaje si conectamos asi.
 #### 29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
 [![5-8-circuitos-2.png](https://i.postimg.cc/59SMn768/5-8-circuitos-2.png)](https://postimg.cc/G9tNpjPp)
+#### a) Vt=23V, b) Vt=85v, c) Vt=16V
+#### Explicacion: Los volyajes en serie se suman.
 #### SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 #### 31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
+#### 4V, ya que al sumar todos los voltajes nos da 16 y para llegar al 20 solo faltaria 4.
 #### 33. En el circuito de la figura 5-81, determine la resistencia de R4.
+#### I=V/R
+#### I=0.94V/4.7Ω
+#### I=0.2A
+#### R=V/I
+#### R4=4.4V/2A
+#### R4=2.2Ω
 #### 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
+#### VA=
 #### SECCIÓN 5–7 Divisores de voltaje
 #### *37. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?
 [![5-9-circuitos-2.png](https://i.postimg.cc/8kJytwwt/5-9-circuitos-2.png)](https://postimg.cc/G9RJpFWy)
+La veinteava parte si dividimos a razones iguales Rt.
 #### 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+#### I=V/R
+#### I=15V/18.9Ω
+#### I=0.79mA
+#### VA=R1xI
+#### VA=4.4V
+#### VB=7.9V
+#### VC=2.6V
 #### *41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 [![5-9-circuitos-3.png](https://i.postimg.cc/GhbyHmBG/5-9-circuitos-3.png)](https://postimg.cc/xqFCZY31)
+#### VR=6V, VR2=12V, VR3=18V, VR4=24V, VR5=30V
 #### 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+#### I=V/R
+#### I=10V/5.6kΩ
+#### I=1.79mA
+#### VR2= 1.79V
+#### VR3= 1V
+#### VR4= 17.9
 #### *45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
 #### SECCIÓN 5–8 Potencia en circuitos en serie
 #### 47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+P=VXI
+P=30.69VX1.79mA
+P=0.054W
 #### 49. Encuentre RT en la figura 5-89.
 #### SECCIÓN 5–9 Mediciones de voltaje
 #### 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+#### I=V/R
+#### I=100V/13.2kΩ
+#### I=7.57mA
+#### VA= 100V
+#### VB= 42.39V
+#### VC= 42.39V
+#### VD= 7.57V
 #### 53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 [![5-10-circuitos-2.png](https://i.postimg.cc/nhjcLy1q/5-10-circuitos-2.png)](https://postimg.cc/68KNj1gQ)
+#### Figura 5-90
+#### I=V/R
+#### I=100V/13.2kΩ
+#### I=7.57mA
+#### VA= 100V
+#### VB= 42.39V
+#### VC= 42.39V
+#### VD= 7.57V
+#### Figura 5-91
+#### I=V/R
+#### I=24V/1816kΩ
+#### I=0,013mA
+#### VA= 0,728V
+#### VB= 7,28V
+#### VC= 1,3V
+#### VD= 13V
 #### SECCIÓN 5–10 Localización de fallas
 #### 55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+Se tratan de aberturas de circuito ya que nos marca cero en voltaje.
 #### *57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
 [![circuitos-11-2.png](https://i.postimg.cc/CM4xzHpL/circuitos-11-2.png)](https://postimg.cc/6TyXPZQD)
 [![5-12-ircutia-2.png](https://i.postimg.cc/HLBR5xzK/5-12-ircutia-2.png)](https://postimg.cc/Ty5tvTZq)
+#### No son correctos ya que tienden a infinito y eso es sinonimo de un cortocircuito.
 #### *59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo problemas.
+#### No no existe problema lo abria si el valor de la resietncia en 1 y 2 sea menor a la de 2 y 4.
 ### UNIDAD 6
 ### AUTOEVALUACION 
 #### 1. En un circuito en paralelo, cada resistor tiene
