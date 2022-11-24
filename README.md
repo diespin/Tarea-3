@@ -276,53 +276,128 @@ Se tratan de aberturas de circuito ya que nos marca cero en voltaje.
 ### PROBLEMAS
 #### SECCIÓN 6–1 Resistores en paralelo
 #### 1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+[![vecto-r-2.png](https://i.postimg.cc/gjZwLPg1/vecto-r-2.png)](https://postimg.cc/Lgm4GGKV)
 #### *3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 [![CIRCUITOS-6-1-2.png](https://i.postimg.cc/YCCpgSmW/CIRCUITOS-6-1-2.png)](https://postimg.cc/KRCShxfG)
+#### R3 y R4, R7 y R8.
 ### SECCIÓN 6–2 Voltaje en un circuito en paralelo
 #### 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 [![circuitos-6-2-2.png](https://i.postimg.cc/fTw32D9w/circuitos-6-2-2.png)](https://postimg.cc/QVyxVLmP)
+#### 100V ya que todas las resistencias estan en paralelo.
 #### 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+#### 15V en todas las posiciones ya que estan en paralelo.
 ### SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 #### 9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+#### It=I1+I2+I3
+#### It=250mA+300mA+800mA
+#### It=1350mA
 #### 11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
 [![circuitos-6-2-3.png](https://i.postimg.cc/JnphSBJM/circuitos-6-2-3.png)](https://postimg.cc/S2zqMRDv)
-#### * 13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+#### V=IxR
+#### V=0.001Ax47Ω
+#### V=0.047V
+#### R2=V/I
+#### R2=21.96Ω
+#### R3=10Ω
+#### R4=0.047V/0.00142mA
+#### R4=33.099Ω
+#### * 13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+#### V=IxR
+#### V=0.1Ax25Ω=2,5V
+#### I=V/R
+#### I=2,5/220Ω
+#### I=0,011A
 ### SECCIÓN 6–4 Resistencia total en paralelo
 #### 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
-#### (a) 560 Ω y 1000 Ω (b) 47 Ω y 56 Ω
-#### (c) 1.5 kΩ, 2.2 kΩ, 10 kΩ (d) 1.0MΩ, 470kΩ, 1.0kΩ, 2.7MΩ
-#### 17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
+#### (a) 560 Ω y 1000 Ω 
+#### Rt=358.97Ω
+#### (b) 47 Ω y 56 Ω
+#### Rt=25.55Ω
+#### (c) 1.5 kΩ, 2.2 kΩ, 10 kΩ 
+#### Rt=0.82kΩ
+#### (d) 1.0MΩ, 470kΩ, 1.0kΩ, 2.7MΩ
+#### Rt=0.99Ω
+#### 17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+#### Rt=81.6Ω
 #### 19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+#### Rt=155.63Ω
 #### 21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
-#### (a) SW1 y SW2 abiertos (b) SW1 cerrado, SW2 abierto
-#### (c) SW1 abierto, SW2 cerrado (d) SW1 y SW2 cerrados
 [![circuitos-6-3-2.png](https://i.postimg.cc/D0YRV7BS/circuitos-6-3-2.png)](https://postimg.cc/QK1f1ZLD)
+#### (a) SW1 y SW2 abiertos
+#### Rt=510kΩ
+#### (b) SW1 cerrado, SW2 abierto
+#### Rt=244.59kΩ
+#### (c) SW1 abierto, SW2 cerrado 
+#### Rt=309.93
+#### (d) SW1 y SW2 cerrados
+#### Rt=192.78kΩ
 #### 23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+#### Rt=11Ω
+#### I=V/R
+#### I=110V/11Ω
+#### I=10A
 #### 25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+#### I=V/R
+#### I=110V/2.2kΩ
+#### I=50mA
+#### Es mejor tener estas lices en paralelo ya que si se quema una no se apagaran todas.
 #### 27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
 [![circutos-6-5-2.png](https://i.postimg.cc/25hqV6Wf/circutos-6-5-2.png)](https://postimg.cc/bGYY5qL6)
+#### Puede tomar el valor maximo de reostato ya que la intensidad va por debajo del valor del fusible.
 #### 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
 [![circuitos-6-6-2.png](https://i.postimg.cc/YqdDs2hk/circuitos-6-6-2.png)](https://postimg.cc/RNnT3B7b)
+#### It=300mA
+#### R2=0.8kΩ
+#### I2=125mA
+#### I3=125mA
 #### 31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
 [![circuitos-6-6-3.png](https://i.postimg.cc/qBL1NBcn/circuitos-6-6-3.png)](https://postimg.cc/yWDm5HbY)
+#### A=2.25mA
+#### B=4.75mA
+#### C=4.75mA
 #### 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
 [![circuitos-6-7-2.png](https://i.postimg.cc/MTrXLQ2V/circuitos-6-7-2.png)](https://postimg.cc/ZBpTB0q5)
+#### IAT=32µ
+#### IBT=10mA
 #### 35. Determine todos los valores de resistor en la figura 6-83. RT 5 773 Ω.
 [![circuitos-6-7-3.png](https://i.postimg.cc/B6y2dvdL/circuitos-6-7-3.png)](https://postimg.cc/9Rd49cXC)
+#### I3=2.14mA
+#### Vt=ItxRt=15.53mAx773Ω
+#### Vt=12V
+#### R1=3.3kΩ
+#### R2=1.8kΩ
+#### R3=5.6kΩ
+#### R4=3.9kΩ
 #### *37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición.
 #### (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
+#### R=0.001Ω
 #### (b) ¿Cuánta corriente circula por el medidor?
+#### I=5µA
 ### SECCIÓN 6–8 Potencia en circuitos en paralelo
 #### 39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+#### P=I^2xR
+#### PAT=706.56W
+#### PBT=53W
 #### *41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
 [![circuitos-6-8-2.png](https://i.postimg.cc/NfFW6Cxd/circuitos-6-8-2.png)](https://postimg.cc/Tp87G9Fb)
+#### R1=125Ω
+#### R2=75Ω
+#### I1=100mA
+#### I2=100mA
 ### SECCIÓN 6–10 Localización de fallas
 #### 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+#### La corriente se incremenetara con un valor excesivo.
 #### 45. ¿Qué está mal con el circuito de la figura 6-86?
+#### Rama abierta
 #### *47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+#### Medir corriente y voltaje en todas la resistencias y lineas.
 #### * 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
-#### (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 [![6-9-circuitos-2.png](https://i.postimg.cc/SsWztG75/6-9-circuitos-2.png)](https://postimg.cc/yg8dDcGX)
+#### (a) 1 y 2 
+#### (b) 2 y 3 
+#### (c) 2 y 4 
+#### (d) 1 y 4
+#### El valor de las resistencias incrementara en corto en paralelo y la corriente disminuye.
 ### 4. VIDEO
 ### 5. CONCLUSIONES
 - Los circuitos en serie tiene una sola trayacetoria o rama encambio los circuitos en paralelo tiene varias.
