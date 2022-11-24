@@ -402,6 +402,7 @@ Se tratan de aberturas de circuito ya que nos marca cero en voltaje.
 #### (d) 1 y 4
 #### El valor de las resistencias incrementara en corto en paralelo y la corriente disminuye.
 ### 4. VIDEO
+https://youtu.be/JmLBhGnUiMA
 ### 5. CONCLUSIONES
 - Los circuitos en serie tiene una sola trayacetoria o rama encambio los circuitos en paralelo tiene varias.
 - Los circuitos en serie actuan como divisores de voltaje encambio los circuitos en paralelo como divisores de corriente.
