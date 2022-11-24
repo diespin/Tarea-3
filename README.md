@@ -169,11 +169,14 @@
 #### R4=4.4V/2A
 #### R4=2.2Ω
 #### 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
-#### VA=
+#### VA=IxR
+#### VA=6.00mAxR1
+#### VA=10.8V
+#### VR5=18V-10.8V=7.2V
 #### SECCIÓN 5–7 Divisores de voltaje
 #### *37. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?
 [![5-9-circuitos-2.png](https://i.postimg.cc/8kJytwwt/5-9-circuitos-2.png)](https://postimg.cc/G9RJpFWy)
-La veinteava parte si dividimos a razones iguales Rt.
+#### La veinteava parte si dividimos a razones iguales Rt.
 #### 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 #### I=V/R
 #### I=15V/18.9Ω
@@ -193,7 +196,7 @@ La veinteava parte si dividimos a razones iguales Rt.
 #### VR3= 1V
 #### VR4= 17.9
 #### *45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
-
+[![45-circuitos.jpg](https://i.postimg.cc/bY2YSYB5/45-circuitos.jpg)](https://postimg.cc/pyRMgvxQ)
 #### SECCIÓN 5–8 Potencia en circuitos en serie
 #### 47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 P=VXI
